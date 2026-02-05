@@ -1,0 +1,2 @@
+# No external dependencies required for this simple project
+# Python standard library is sufficient
